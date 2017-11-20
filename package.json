@@ -1,6 +1,6 @@
 {
   "name": "@mobius-network/mobius-reactnative",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Mobius React-native API Client for react-native",
   "keywords": [
     "mobius",
@@ -12,10 +12,10 @@
     "test": "yarn run lint && ava",
     "lint": "$(yarn bin)/eslint src test"
   },
-  "homepage": "https://github.com/mobius-network/mobius-node",
+  "homepage": "https://github.com/mobius-network/mobius-react-native",
   "repository": {
     "type": "git",
-    "url": "git://github.com:mobius-network/mobius-node.git"
+    "url": "https://github.com/mobius-network/mobius-react-native.git"
   },
   "bugs:": "https://github.com/mobius-network/mobius-node/issues",
   "engines": {
